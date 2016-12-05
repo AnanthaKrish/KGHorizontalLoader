@@ -6,7 +6,6 @@
 
 `KGHorizontalLoader` is a Custom loading animation.
 
-
 # Installation
 
 ## Cocoapods
