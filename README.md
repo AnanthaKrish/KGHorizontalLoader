@@ -56,7 +56,6 @@ Come to the `attribute inspector` and add the feature,
   * Background Line Color
   * Background Loader Color
 
-
   To start animation call this,
 
   ```
